@@ -23,7 +23,8 @@ const whoIAm = new Person(
 
 const presentation = person => {
   console.log(
-    `My name is ${person.name}, i have ${person.age} years, from ${person.live}. I'm currently studying at ${person.study} learning ${person.learning}. More about: ${person.otherInfos}`
+    `My name is ${person.name}, i have ${person.age} years, from ${person.live}. 
+    I'm currently studying at ${person.study} learning ${person.learning}. More about: ${person.otherInfos}`
   )
 }
 presentation(whoIAm)
