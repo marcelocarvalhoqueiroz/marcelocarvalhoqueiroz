@@ -11,11 +11,12 @@ function Person(name, age, live, study, learning, otherInfos) {
   this.presentation = () => {
   console.log(
       `My name is ${this.name}, i have ${this.age} years, from ${this.live}. 
-      I'm currently studying at ${this.study} learning ${this.learning}. More about: ${this.otherInfos}`
+      I'm currently studying at recruit in ${this.study}. Learning ${this.learning}. 
+      More about: ${this.otherInfos}`
     )
   }
 }
-const learning = ['HTML', ' CSS', ' JS', ' React', ' NodeJS', ' English']
+const learning = ['HTML', ' CSS', ' JS', ' React Native', ' NodeJS', ' English']
 const otherInfos = ['Graduated in Information Systems', ' Pronouns Him/His']
 
 const whoIAm = new Person(
