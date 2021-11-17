@@ -1,35 +1,11 @@
 ## Hello reader! I'm Marcelo  👋😄
-### About me:
-```
-function Person(name, age, live, study, learning, otherInfos) {
-  this.name = name
-  this.age = age
-  this.live = live
-  this.study = study
-  this.learning = learning
-  this.otherInfos = otherInfos
-  this.presentation = () => {
-  console.log(
-      `My name is ${this.name}, i have ${this.age} years, from ${this.live}. 
-      I'm currently studying at recruit in ${this.study}. Learning ${this.learning}. 
-      More about: ${this.otherInfos}`
-    )
-  }
-}
-const learning = ['HTML', ' CSS', ' JS', ' React Native', ' NodeJS', ' English']
-const otherInfos = ['Graduated in Information Systems', ' Pronouns Him/His']
+### About me
 
-const whoIAm = new Person(
-  'Marcelo',
-  '23',
-  'Rio de Janeiro, Brazil',
-  'Rocketseat',
-  learning,
-  otherInfos
-)
-whoIAm.presentation()
-```
-![](consoleLog.png)
+<ul>
+  <li>Learning: React Native, TypeScript, JavaScript, NodeJS</li>
+  <li>Graduated in Information Systems</li>
+  <li>Studyng at RocketSeat</li>
+</ul>
 
 ### My passport for the rocket
 ![](Passaporte-react-native.png)
