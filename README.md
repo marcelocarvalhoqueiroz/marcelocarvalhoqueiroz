@@ -4,7 +4,7 @@
 <ul>
   <li>Learning: React Native, React, TypeScript, JavaScript, NodeJS</li>
   <li>Graduated in Information Systems</li>
-  <li>Studyng at RocketSeat</li>
+  <li>Studying at RocketSeat</li>
 </ul>
 
 ### My passport for the rocket
