@@ -2,7 +2,7 @@
 ### About me
 
 <ul>
-  <li>Learning: React Native, React, TypeScript, JavaScript, NodeJS</li>
+  <li>Learning: React Native, Typescript, and in the future NodeJS</li>
   <li>Graduated in Information Systems</li>
   <li>Studying at RocketSeat</li>
 </ul>
