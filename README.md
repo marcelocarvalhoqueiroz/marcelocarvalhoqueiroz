@@ -2,13 +2,11 @@
 ### About me
 
 <ul>
-  <li>Learning: React Native, Typescript, and in the future NodeJS</li>
+  <li>Learning: React Native and Typescript</li>
   <li>Graduated in Information Systems</li>
   <li>Studying at RocketSeat</li>
+  <li>Feel free to ask me about Mobile, let's learn together!</li> 
 </ul>
-
-### My passport for the rocket
-![](Passaporte-react-native.png)
 
 Contact me:
 
